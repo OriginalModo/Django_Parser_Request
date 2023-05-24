@@ -12,7 +12,7 @@ Source codes were written quickly for business purposes... :hourglass:
 
 ## Installation
 ```
-git clone https://github.com/EmreOvunc/Birolla-Django-Request-Parser.git
+git clone https://github.com/OriginalModo/Django_Parser_Request
 cd Birolla-Django-Request-Parser
 sudo pip3 install virtualenv
 python3 -m venv myvenv
